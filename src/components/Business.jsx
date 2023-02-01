@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const Business = () => {
+function Business() {
   return (
     <div>Business</div>
-  )
+  );
 }
 
-export default Business
+export default Business;

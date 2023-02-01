@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const CardDeal = () => {
+function CardDeal() {
   return (
     <div>CardDeal</div>
-  )
+  );
 }
 
-export default CardDeal
+export default CardDeal;

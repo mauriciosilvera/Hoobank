@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const FeedbackCard = () => {
+function FeedbackCard() {
   return (
     <div>FeedbackCard</div>
-  )
+  );
 }
 
-export default FeedbackCard
+export default FeedbackCard;
